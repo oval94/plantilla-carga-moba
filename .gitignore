@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+*.ruff_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración y variables
+*.env
+*.env.* 
+.envrc
+
+# Logs
+*.log
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
